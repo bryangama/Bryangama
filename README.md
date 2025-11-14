@@ -15,75 +15,79 @@ Tenho paixão por **automação**, boas práticas, soluções escaláveis e cons
 ---
 ### 🤖 Linguagens, Tecnologias & Infraestrutura
 
-<table>
-<tr>
-<th>🖥️ Frontend</th>
-<th>⚙️ Backend</th>
-<th>🛜 Infraestrutura & Sistemas</th>
-</tr>
-<tr>
+<div align="center">
 
-<td align="center">
+  <!-- Badges de Frontend -->
+  <h4>🖥️ Frontend</h4>
 
-<img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img alt="React" title="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-<img alt="Bootstrap" title="Bootstrap" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-</td>
+  <br/>
+  <h4>⚙️ Backend & Banco de Dados</h4>
 
-<td align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <br/>
+  
+  <h4>🛜 Infraestrutura & Sistemas</h4>
 
-<img alt="Node.js" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-<img alt="NestJS" title="NestJS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
-<img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-<img alt="PostgreSQL" title="PostgreSQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-<img alt="SQL Server" title="SQL Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
+  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" />
 
-</td>
+  <br/>
 
-<td align="center">
+### 🖧 Minha trajetória profissional
 
-<img alt="Windows Server" title="Windows Server" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
-<img alt="Linux" title="Linux" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
-<img alt="PowerShell" title="PowerShell" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"/>
-<img alt="Docker" title="Docker" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-<img alt="pfSense" title="pfSense" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pfsense/pfsense-original-wordmark.svg"/>
-</td>
-</tr>
-</table>
-<br/>
- 🖧 Minha trajetória profissional
+Iniciei minha carreira como estagiário na área de **Infraestrutura de TI**, atuando no suporte diário a usuários, atendimento a sistemas internos e resolução de incidentes operacionais. Foi nesse período que desenvolvi minha base técnica e meu interesse por ambientes corporativos de TI.
 
-Iniciei minha carreira como estagiário na área de Infraestrutura de TI, sendo responsável por atender as demandas do dia a dia, como suporte a usuários, atendimento a sistemas internos e resolução de incidentes operacionais.
+Com o tempo, evoluí para **Analista de Infraestrutura**, assumindo responsabilidades mais amplas e estratégicas. Passei a atuar diretamente na **implantação, manutenção e administração de ambientes de rede**, internos e externos, além de apoiar a expansão tecnológica da empresa. Nesse período, trabalhei com:
 
-Com o tempo, evoluí para a função de Analista de Infraestrutura, onde minhas responsabilidades cresceram significativamente. Passei a atuar não apenas no suporte, mas também na implantação, manutenção e administração de ambientes de rede, tanto em unidades internas quanto externas da empresa. Nesse período, trabalhei diretamente com:
+- Administração de servidores **Windows e Linux**  
+- Gerenciamento de redes internas e externas  
+- Suporte e manutenção de infraestrutura de telefonia  
+- Configuração, documentação e monitoramento de serviços críticos  
 
-Administração de servidores Windows e Linux
+Minha atuação incluía a gestão completa de ambientes **Windows Server**, envolvendo:
 
-Gerenciamento de redes internas e externas
+- **AD DS, GPO, DNS, DHCP**  
+- Servidor de arquivos, impressão e permissões NTFS  
+- Segurança e controle de rede com **pfSense**  
+- Monitoramento e métricas com **Zabbix**  
 
-Suporte e manutenção de infraestrutura de telefonia
+Após alguns anos, assumi o cargo de **Supervisor de TI**, liderando uma equipe responsável por toda a operação tecnológica da empresa. Nessa função, atuei na:
 
-Configuração e monitoramento de serviços críticos
+- Distribuição e acompanhamento de demandas  
+- Validação de fornecedores e terceiros  
+- Garantia de disponibilidade dos serviços  
+- Organização e evolução da estrutura de TI  
+- Implementação de boas práticas e padrões  
 
-Minha atuação incluiu administração completa de ambientes Windows Server, envolvendo:
+Buscando ampliar meus conhecimentos, decidi migrar para a área de **Desenvolvimento de Software**, com foco em automação e integrações. Atuei principalmente na criação de:
 
-- AD DS, GPO, DNS, DHCP
-- Servidor de arquivos, impressões e permissões de acesso
-- PfSense para segurança e controle de rede
-- Monitoramento de infraestrutura com Zabbix
+- Bots de coleta e raspagem de informações  
+- Automações inteligentes para fluxos internos  
+- Integrações entre plataformas e sistemas  
 
-Após alguns anos, assumi o cargo de Supervisor de TI, liderando a equipe responsável por todas as demandas operacionais. Nessa função, além de orientar o time, fui responsável por acompanhar entregas, validar atividades de terceiros, garantir a disponibilidade dos serviços e manter a estabilidade do ambiente de TI como um todo.
+Utilizando tecnologias como:
 
-Com o tempo, decidi expandir meus conhecimentos e migrei para a área de Desenvolvimento de Software, onde atuei principalmente na criação de bots de coleta de informações, automações inteligentes e integrações entre sistemas. Nesse período, trabalhei com:
+- **Node.js**  
+- **Puppeteer**  
+- **Next.js**  
+- **NestJS**  
+- **PostgreSQL**  
 
-- Node.js
-- Puppeteer (raspagem e automação de navegação)
-- Next.js
-- NestJS
-- Postgresql
+Essa transição me permitiu unir **Infra + Desenvolvimento**, trazendo uma visão completa para criação de soluções eficientes, automatizadas e escaláveis.
